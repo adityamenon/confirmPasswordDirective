@@ -1,6 +1,6 @@
 define(function() {
 
-  var module = angular.module('imageUploadDirective');
+  var module = angular.module('confirmPasswordDirective');
 
   module.directive('confirmPassword', function () {
       return {
